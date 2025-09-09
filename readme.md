@@ -44,7 +44,7 @@ mini-demo-cards/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mini-demo-cards.git
+git clone https://github.com/CarlosEduard0o/demo-cards-web.git
 ```
 
 2. Abra o arquivo `index.html` em qualquer navegador moderno (Chrome, Edge, Firefox, Safari).  
